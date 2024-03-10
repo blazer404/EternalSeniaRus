@@ -16,8 +16,8 @@
 
 #### Примеры перевода
 <div>
-  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_1.jpg" width="40%">
-  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_2.jpg" width="40%">
-  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_3.jpg" width="40%">
-  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_4.jpg" width="40%">
+  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_1.jpg" width="24%">
+  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_2.jpg" width="24%">
+  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_3.jpg" width="24%">
+  <img src="https://raw.githubusercontent.com/blazer404/EternalSeniaRus/main/scr_4.jpg" width="24%">
 </div>

@@ -9,7 +9,7 @@
 
 #### Установка
 1. Скачать из [релизов](https://github.com/blazer404/EternalSeniaRus/releases)
-2. Скопировать файл Game.rgss3a в папку с игрой (путь до steam\steamapps\common\Eternal Senia) и согласиться на замену
+2. Распаковать содержимое архива в папку с игрой (путь до steam\steamapps\common\Eternal Senia) и согласиться на замену
 3. Играть
    
 #

@@ -1,4 +1,4 @@
-## Русификатор для steam версии [Eternal Senia](https://store.steampowered.com/app/351640/Eternal_Senia/)
+## Русификатор для [Eternal Senia](https://store.steampowered.com/app/351640/Eternal_Senia/)
 <p>
   Версия игры - 1.65<br>
   Версия русификатора - 0.3<br>
